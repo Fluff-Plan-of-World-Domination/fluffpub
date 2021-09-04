@@ -23,20 +23,26 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="981"
-     inkscape:cy="385"
+     inkscape:zoom="0.67829873"
+     inkscape:cx="1144.0387"
+     inkscape:cy="478.40278"
      inkscape:window-width="1858"
      inkscape:window-height="1057"
      inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:snap-to-guides="true"
      inkscape:snap-page="false"
      showguides="true" />
   <defs
      id="defs23653">
+    <rect
+       x="1436"
+       y="174"
+       width="329.85041"
+       height="133.06632"
+       id="rect108530" />
     <rect
        x="73"
        y="211"
@@ -97,31 +103,49 @@
        id="layer3"
        inkscape:label="Containers">
       <rect
-         style="display:inline;fill:none;fill-opacity:1;stroke:#66fcf1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#66fcf1;stroke-width:4.99243;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
          id="rect98662-8-9"
-         width="445.86508"
-         height="355.86505"
-         x="194.06747"
-         y="542.0675" />
+         width="445.00757"
+         height="355.47174"
+         x="192.49622"
+         y="542.03204" />
       <rect
-         style="display:inline;fill:none;fill-opacity:1;stroke:#66fcf1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#66fcf1;stroke-width:4.99243;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
          id="rect98662-8-2"
-         width="445.86508"
-         height="355.86505"
-         x="194.06747"
-         y="122.06747" />
+         width="445.00757"
+         height="355.47174"
+         x="192.49622"
+         y="122.49622" />
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 165.46299,857.01342 H 517.60216"
          id="path101727" />
       <rect
-         style="display:inline;fill:none;fill-opacity:1;stroke:#66fcf1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#66fcf1;stroke-width:5.00953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
          id="rect102512"
-         width="443.91556"
-         height="773.91553"
-         x="705.04224"
-         y="123.04223" />
+         width="444.99048"
+         height="774.99048"
+         x="702.50476"
+         y="122.50477" />
+      <text
+         xml:space="preserve"
+         id="text108528"
+         style="font-size:46.605px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect108530);fill:#c5c6c7;fill-opacity:1"
+         transform="matrix(3.0897985,0,0,3.0897959,-3222.2945,-445.14848)"><tspan
+           x="1436"
+           y="216.51915"
+           id="tspan173060"><tspan
+             style="font-weight:900;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#66fcf1"
+             id="tspan173058">12:34 AM</tspan></tspan></text>
     </g>
+    <path
+       style="fill:none;stroke:#66fcf1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1210,275 h 650"
+       id="path168362" />
+    <path
+       style="fill:none;stroke:#66fcf1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1210,895 h 650"
+       id="path173013" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -185,7 +209,7 @@
        transform="matrix(1.976834,0,0,1.976834,-126.37139,105.23175)"><tspan
          x="73"
          y="246.1138"
-         id="tspan102732">0B0C10FF</tspan></text>
+         id="tspan173062">0B0C10FF</tspan></text>
     <text
        xml:space="preserve"
        id="text45482-0"
@@ -193,7 +217,7 @@
        transform="matrix(1.976834,0,0,1.976834,256.71067,105.23175)"><tspan
          x="73"
          y="246.1138"
-         id="tspan102734">1F2833FF</tspan></text>
+         id="tspan173064">1F2833FF</tspan></text>
     <text
        xml:space="preserve"
        id="text45482-0-7"
@@ -201,7 +225,7 @@
        transform="matrix(1.9768331,0,0,1.976834,641.55043,105.15363)"><tspan
          x="73"
          y="246.1138"
-         id="tspan102736">C5C6C7FF</tspan></text>
+         id="tspan173066">C5C6C7FF</tspan></text>
     <text
        xml:space="preserve"
        id="text45482-0-7-0"
@@ -209,7 +233,7 @@
        transform="matrix(1.976834,0,0,1.976834,1024.9444,105.15363)"><tspan
          x="73"
          y="246.1138"
-         id="tspan102738">66FCF1FF</tspan></text>
+         id="tspan173068">66FCF1FF</tspan></text>
     <text
        xml:space="preserve"
        id="text45482-0-7-0-4"
@@ -217,6 +241,6 @@
        transform="matrix(1.9768327,0,0,1.976834,1410.5075,105.23175)"><tspan
          x="73"
          y="246.1138"
-         id="tspan102740">45A29EFF</tspan></text>
+         id="tspan173070">45A29EFF</tspan></text>
   </g>
 </svg>

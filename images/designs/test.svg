@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.77682379"
-     inkscape:cx="987.99755"
-     inkscape:cy="531.00845"
+     inkscape:zoom="0.54929737"
+     inkscape:cx="882.0359"
+     inkscape:cy="466.96018"
      inkscape:window-width="1858"
      inkscape:window-height="1057"
      inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      units="px"
      inkscape:snap-page="false"
      inkscape:snap-text-baseline="false" />
@@ -99,7 +99,8 @@
     <g
        inkscape:groupmode="layer"
        id="layer3"
-       inkscape:label="Fundamental">
+       inkscape:label="Fundamental"
+       style="display:inline">
       <rect
          style="fill:#e6e6e6;stroke:none;stroke-width:0.184962"
          id="rect4504"
@@ -121,29 +122,21 @@
          height="39.6875"
          x="84.666664"
          y="182.5625" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.67208913,0,0,0.69197328,-815.21244,-232.19282)"
+         id="text27927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.152px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;white-space:pre;shape-inside:url(#rect27929);fill:#ffffff;fill-opacity:1;stroke:none"
+         x="202.20833"
+         y="0"><tspan
+           x="1334.9352"
+           y="412.25995"
+           id="tspan23493">12:34 AM</tspan></text>
     </g>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text24467"
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:roboto;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect24469);-inkscape-font-specification:roboto;font-stretch:normal;font-variant:normal" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-37.475046,-2.7535226)"
-       id="text27927"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto weight=250';text-align:center;white-space:pre;shape-inside:url(#rect27929);fill:#000000;fill-opacity:1;stroke:none"
-       x="202.20833"
-       y="0"><tspan
-         x="1236.6127"
-         y="454.41859"
-         id="tspan17651"><tspan
-           style="font-weight:300;-inkscape-font-specification:'Roboto Light'"
-           id="tspan17649">12:34 AM </tspan></tspan><tspan
-         x="1161.1387"
-         y="567.69984"
-         id="tspan17655"><tspan
-           dx="0 27.208323 48.541649 50.541641 50.958313"
-           style="font-weight:300;-inkscape-font-specification:'Roboto Light'"
-           id="tspan17653">(EST)</tspan></tspan></text>
   </g>
 </svg>
